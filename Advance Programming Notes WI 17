@@ -1,3 +1,23 @@
 Here are going to be the notes I took for the course of Advance Programming as a way to study the material.
 
+NOTE TO VIEWER: The following notes may be subject to change.
+
 January 13th, 2017
+
+Bytecode has an extension called .class
+
+Primitive Data Types - int, char, doule byte
+
+If you see something in uppercase, it's a class.
+
+In a Switch, you can use int, char, string
+
+In Java there's a new loop that is called for-each.
+
+Primitive Dat Types can be defirent in C++ but in Java, everything is 4 bytes.
+
+In Java it has to be explicitly with words.
+
+In C++ you can say flag = 1; // 1 being the word true but in binary
+In Java is exclusively true or false, no numbers.
+
