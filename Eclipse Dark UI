@@ -1,0 +1,12 @@
+Eclipse Dark UI
+
+Since you already have the com.github.colortheme already in the drop ins folder, you don't have to download the dark them UI again 
+since it's already installed.
+
+What you have to do, if you decide to create a new workspace, it's to go on Windows -> Preferences 
+-> click on the Apperance tab but NOT the arrow -> Dark -> drop down the Apperance List -> Color Theme -> Sublime Text 2.
+
+If for some reason or in the near future you have a new work laptop or desktop and you want to change the UI to dark, 
+there's a youtube video explaning perfectlywhat you need to do in order to get the whole UI dark.
+
+https://www.youtube.com/watch?v=GVKdqevQRhg&t=4s
